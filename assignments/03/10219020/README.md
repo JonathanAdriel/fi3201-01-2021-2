@@ -19,7 +19,8 @@ Ganti nilai variabel NIM dengan data Anda, jalankan kode yang diberikan, dan tam
 
 ### anwser 1
 Hasil kode di atas adalah
-![alt_text](https://github.com/JonathanAdriel/fi3201-01-2021-2/blob/main/assignments/03/10219020/Assignment%2003%20Fiskom%20-%20Q1.png)
+![image](https://user-images.githubusercontent.com/66507928/151111018-31225dbc-53b8-4d16-8685-78df3194c0ab.png)
+
 
 ## question 2
 Ganti nilai variabel NIM dengan data Anda, modifikasi kode yang diberikan di atas dengan `s += char1`, jalankan dan tampilkan hasilnya.

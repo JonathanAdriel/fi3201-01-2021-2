@@ -87,7 +87,7 @@ t=0.01*t                  #Declare t baru agar gelombang merambat ke kanan, jika
 y =np.sin(np.pi * (x-t))  #Fungsi gelombang merambat ke kanan
 ```
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave to right]()
+![gif file from simulation wave to right](https://github.com/JonathanAdriel/fi3201-01-2021-2/blob/main/assignments/04/10219020/Gelombang%20Merambat%20ke%20Kanan.gif)
 
 
 ## question 3
@@ -100,7 +100,7 @@ t=0.01*t                  #Declare t baru agar gelombang merambat ke kiri, jika 
 y =np.sin(np.pi * (x+t))  #Fungsi gelombang merambat ke kiri 
 ```
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave to left]()
+![gif file from simulation wave to left](https://github.com/JonathanAdriel/fi3201-01-2021-2/blob/main/assignments/04/10219020/Gelombang%20Merambat%20ke%20Kiri.gif)
 
 
 ## question 4
@@ -113,4 +113,4 @@ t = 0.01                                   #Declare t baru agar gelombang meramb
 y = np.sin(np.pi * x) * np.cos(np.pi * t)  #Fungsi gelombang stasioner
 ```
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave stationary]()
+![gif file from simulation wave stationary](https://github.com/JonathanAdriel/fi3201-01-2021-2/blob/main/assignments/04/10219020/Gelombang%20Stasioner.gif)

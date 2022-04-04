@@ -109,7 +109,7 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang stasion
 ### answer 4
 Potongan kode yang perlu disisipkan adalah
 ```
-t = 0.01                                   #Declare t baru agar gelombang merambat ke kiri, jika tidak gelombang tidak akan merambat dan menyerupai gelombang stasioner.
+t = 0.01                                   #Declare t baru
 y = np.sin(np.pi * x) * np.cos(np.pi * t)  #Fungsi gelombang stasioner
 ```
 dan hasil berkas gifnya adalah \

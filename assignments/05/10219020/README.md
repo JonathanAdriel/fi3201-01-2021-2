@@ -5,5 +5,5 @@
 4. Unggah ke GitHub Anda dan berikan link pada berkas ini pada bagian jawaban.
 
 ## answer
-Tautan ke berkas Notebook Python saya adalah [work_of_friction.ipynb](https://github.com/JonathanAdriel/fi3201-01-2021-2/blob/main/assignments/05/10219020/10219020_Jonathan%20A_work_of_friction.ipynb).
+Tautan ke berkas Notebook Python saya adalah [10219020_Jonathan Adriel_work_of_friction.ipynb](https://github.com/JonathanAdriel/fi3201-01-2021-2/blob/main/assignments/05/10219020/10219020_Jonathan%20A_work_of_friction.ipynb).
 
